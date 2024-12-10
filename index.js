@@ -52,15 +52,15 @@ function displayWeather(data) {
                     <p class="weather-condition text-primary">${day.day.condition.text}</p>
                     <div class="d-flex justify-content-between">
                         <span>
-                            <img width="15" height="15" src="./images/icon-umberella.png" alt="icon-umberella" />
+                            <img width="15" height="15" src="icon-umberella.png" alt="icon-umberella" />
                             20%
                         </span>
                         <span>
-                            <img width="15" height="15" src="./images/icon-wind.png" alt="icon-wind" />
+                            <img width="15" height="15" src="icon-wind.png" alt="icon-wind" />
                             18km/h
                         </span>
                         <span>
-                            <img width="15" height="15" src="./images/icon-compass.png" alt="icon-compass" />
+                            <img width="15" height="15" src="icon-compass.png" alt="icon-compass" />
                             East
                         </span>
                     </div>
